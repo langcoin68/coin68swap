@@ -10,28 +10,6 @@
             "swapBoxColor": "#748193",
             "swapBoxTextColor": "#EBF0FF",
             "swapBtnColor": "#42566F",
-            "speTextColor": "#7095c3"
-        },
-        {
-            "image": "https://raw.githubusercontent.com/langcoin68/coin68swap/main/nen-coin68swap%20(2).jpg",
-            "imageBlur": "0",
-            "overlayColor": "#000000",
-            "overlayOpacity": "20",
-            "swapInfoColor": "#0B556D",
-            "swapBoxColor": "#598690",
-            "swapBoxTextColor": "#EBF0FF",
-            "swapBtnColor": "#0B6582",
-            "speTextColor": "#0B6582"
-        },
-        {
-            "image": "https://raw.githubusercontent.com/langcoin68/coin68swap/main/nen-coin68swap%20(3).jpg",
-            "imageBlur": "0",
-            "overlayColor": "#000000",
-            "overlayOpacity": "45",
-            "swapInfoColor": "#115A44",
-            "swapBoxColor": "#779A8E",
-            "swapBoxTextColor": "#EBF0FF",
-            "swapBtnColor": "#19654E",
             "speTextColor": "#f9d342"
         },
         {
